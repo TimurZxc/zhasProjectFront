@@ -42,7 +42,7 @@ const Main = () => {
       <h3 className='compet-info-title warning'>{t("main.late_subm")}</h3>
       <h3 className='compet-info-title' style={{marginBottom:20}}>{t("main.what_required")}</h3>
       <div className='middle-main' id='middle'>
-        <p style={{margin:'20px 0'}}>«ZHAS PROJECT» - {t("main.zhas_desc")} </p>
+        <p style={{margin:'20px 0', textAlign: "center"}}>«ZHAS PROJECT» - {t("main.zhas_desc")} </p>
         <ul>
           <li>{t("main.li1")}</li>
           <li>{t("main.li2")}</li>
