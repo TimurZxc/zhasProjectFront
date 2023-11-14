@@ -1,0 +1,283 @@
+{
+    "main": {
+        "slogan": "DREAM ON! OFFER! CREATE!",
+        "sub_slogan": "Project to support youth initiatives",
+        "became_part_but": "Become a participant",
+        "mentors_page_but": "Mentors page",
+        "app_count": "Applications submitted: ",
+        "important_info": "Important information about the competition",
+        "deadline1": "Deadline for submitting applications for the competition",
+        "from": "From ",
+        "s": "'th",
+        "d": "'d",
+        "st": "'st",
+        "october": "of October",
+        "toOctoberKz": "of October",
+        "fromOctoberKz": "of October",
+        "year_to": "and until",
+        "hour": "o'clock",
+        "year_by": "",
+        "deadline2": "Competitive selection of applications",
+        "up_to": "up to",
+        "deadline3": "Announcement of the winners of the competition",
+        "november": "of November",
+        "deadline4": "Project completion date",
+        "deadlie_4_kz": "From the moment of signing the grant agreement until December 15, 2023.",
+        "from_moment": "From the moment of signing the grant agreement, until",
+        "december": "of December",
+        "g": "y",
+        "late_subm": "Applications received later than the application acceptance date set by the organizer are not considered.",
+        "what_required": "What do you need to participate in our project?",
+        "zhas_desc": "a project aimed at creating conditions for young people from the 'NEET' category (temporarily unsettled youth) and supporting youth initiatives.",
+        "li1": "The applicant must be a citizen of the Republic of Kazakhstan",
+        "li2": "The age of the applicant must be from 18 to 35 years at the time of filing the application",
+        "li3": "The applicant must have permanent or temporary registration on the territory of the region at the time of filing the application",
+        "li4": "The applicant must be in the status of temporarily unsettled youth at the time of filing the application",
+        "step1": "Register on the website",
+        "step1_desc": "To participate in the competition, the applicant must register on the organizer's information resource by filling in all the necessary personal data according to the questionnaire form.",
+        "step2": "Fill out the project application form",
+        "step2_desc": "After registration on the information resource, the applicant fills out the project application form. The application must be filled in for each item and in accordance with the established form.",
+        "step3": "Selection and results",
+        "step3_desc": "After the contest, the results will be posted on the website.",
+        "is_deadline":"The collection of applications is closed"
+    },
+    "mentors": {
+        "experts": "Our experts",
+        "expert":"Expert",
+        "mentor_1": {
+            "name": "Kubaeva Zulfiya",
+            "profession": "Chairman of the West Kazakhstan Regional Branch",
+            "info": "Business coach, lawyer, teacher, entrepreneur. An activist in the public life of the region. Member of the Council of Businesswomen of North Kazakhstan Region",
+            "achievements": "Achievements",
+            "achievements_text": "Total work experience is 23 years, of which 11 years participated in the implementation of the state program \"Дорожная карта бизнеса\", in particular \"Занятость 2020\", \"Bastau business\", aimed at business development in rural areas. From 2011 to 2022, about 3,000 students were trained, 70% of whom opened their own business. Expert in the development of educational programs in the field of training \"Закон\", Candidate of Legal Sciences."
+        },
+        "mentor_2":{
+            "status": "Mentor of the Turkestan region",
+            "profession": "Business and non-formal education coach, youth specialist. She has 10 years of work experience, including working as the head of a youth resource center in rural areas and the chairman of a public organization. Author and winner of many international and social projects."
+        }
+    },
+    "about_us": {
+        "defenition": "\"ZHAS PROJECT\" is a project aimed at creating conditions for young people from the category of NEET (temporarily unsettled youth) and supporting youth initiatives.",
+        "info_1": "The competition of small grants is held within the framework of a state grant with the support of the НАО \"Центр поддержки гражданских инициатив\" commissioned by the Ministry of Culture and Information of the Republic of Kazakhstan, in accordance with the additional list of priority areas of state grants for 2023, approved by the order of the Minister of Information and Public Development of the Republic of Kazakhstan dated 21.07.2023 № 287",
+        "title_1": "Entrepreneurs are safe with us",
+        "info_2": "Every day we work to make the business of our students more successful and competitive.",
+        "cards_title_1": "We train and advise",
+        "cards_info_1": "184,902 people have been trained by our trainers",
+        "cards_title_2": "We create jobs",
+        "cards_info_2": "70,567 vacancies were opened",
+        "cards_title_3": "We help to launch a business",
+        "cards_info_3": "We determine the audience and profitability, develop a brandbook",
+        "cards_title_4": "We have a strong coaching staff",
+        "cards_info_4": "The projects are accompanied by 40 trainers with 10 years of experience",
+        "download_rus": "Download the contest of competition in Russian",
+        "download_kaz": "Download the contest of competition in Kazakh",
+        "results0": "Dear participants!",
+        "results1": "1. The first stage of the competition. The list of participants who have passed the technical selection will be published on the website on October 24.",
+        "results2": "2. The second stage of the competition. The training will take place from October 24 to 26 in an online format.",
+        "results3": "3. The third stage of the competition. The presentation and defense of the projects will take place on October 27.",
+        "results4": "The list of grant holders will be published on the website on November 1.",
+        "list_at": "List of grant holders (Atyrau region)",
+        "list_tur": "List of grant holders (Turkestan region)"
+    },
+    "layout": {
+        "profile": "Profile",
+        "exit": "Log Out",
+        "login": "Login",
+        "nav_1": "Submit an application",
+        "nav_2": "Participants",
+        "nav_3": "Our team",
+        "nav_4": "Q&A",
+        "nav_5": "About project",
+        "nav_6": "Mn - Fr",
+        "nav_7": "Competition results"
+    },
+    "register": {
+        "reg_success": "Registration was successful!",
+        "sign_in": "Sign in",
+        "reg": "Registration",
+        "email": "Email:",
+        "name": "First name:",
+        "lname": "Last name:",
+        "surname": "Middle name:",
+        "phone": "Phone number:",
+        "password": "Password:",
+        "from8": "Come up with a password",
+        "must_contain": "Try to make it reliable and don't forget",
+        "confirm_pwd": "Confirm your password:",
+        "must_equal": "Must match the first password entry field.",
+        "to_reg": "Register",
+        "alredy_have": "Already have an account?"
+    },
+    "login": {
+        "sign_in": "Sign in",
+        "userName": "Your email:",
+        "password": "Password:",
+        "to_sign_in": "Sign in",
+        "no_acount": "No account?",
+        "register": "Registration"
+    },
+    "form": {
+        "form_page": "Form Filling Page",
+        "for_particip": "To participate, please fill out the form below",
+        "iin": "IIN",
+        "b_date": "Date of birth",
+        "input_gover": {
+            "label": "Citizenship",
+            "placeholder": "Kazakhstan"
+        },
+        "gender_select": {
+            "label": "Specify your gender",
+            "d_option": "Gender",
+            "option1": "Male",
+            "option2": "Female"
+        },
+        "family_stat_select": {
+            "label": "Marital status",
+            "d_option": "Choose from:",
+            "option1": "Single",
+            "option2": "Married",
+            "option3": "Divorced",
+            "option4": "Widower/Widow",
+            "option5": "Other"
+        },
+        "is_work_select": {
+            "label": "Do you confirm that you are not currently working, are not studying in educational institutions (full-time), are not undergoing professional training and retraining?",
+            "d_option": "Choose from:",
+            "option1": "Yes",
+            "option2": "No"
+        },
+        "kato_type_select": {
+            "label": "Where do you live?",
+            "d_option": "Choose from:",
+            "option1": "Regional center (city)",
+            "option2": "Village",
+            "option3": "Urban - type settlement"
+        },
+        "fact_address_text": "Specify the actual place of residence",
+        "fact_address_input": {
+            "label1": "Region, city/district, locality",
+            "placeholder1": "Turkestan, Zhetysay, Zhetysay",
+            "label2": "Street, house, apartment",
+            "placeholder2": "Satpayeva, 21, kv 30"
+        },
+        "edu_select": {
+            "label": "Education",
+            "d_option": "Choose from:",
+            "option1": "Did not graduate from school",
+            "option2": "Graduated from school (grades 9)",
+            "option3": "Graduated from school (11th grade)",
+            "option4": "Graduated from college (vocational lyceum, vocational school)",
+            "option5": "Graduated from a university (bachelor's degree)",
+            "option6": "Graduated from the Master's/PHD program"
+        },
+        "jobless_dur_select": {
+            "label": "If you are not working, then how long?",
+            "d_option": "Choose from:",
+            "option1": "Up to 3 months",
+            "option2": "Up to 6 months",
+            "option3": "Up to 1 year",
+            "option4": "Up to 3 years old",
+            "option5": "Over 3 years"
+        },
+        "gos_prog_select":{
+            "label": "What state and other youth support programs have you participated in?",
+            "d_option": "Choose from:",
+            "option2": "«With a diploma – to the village!»",
+            "option3": "Youth practice",
+            "option4": "«Zhasyl El»",
+            "option5": "Project «Jhasmaman»",
+            "option6": "«Máńgilik el jastary – ındýstrıaǵa!»",
+            "option7": "«Bolashak» International Scholarship",
+            "option8": "Entrepreneurship support programs of the «Damu» Foundation",
+            "option9": "«Jaskásipker»",
+            "option10": "«Business Bastaý»",
+            "option11": "Social jobs",
+            "option12": "«Free vocational and technical education for all»",
+            "option13": "Other",
+            "option14": "No, I have never taken part"
+        },
+        "other_gos_prog_text": "Please indicate which state programs you have participated in",
+        "other_gos_prog_select":{
+          "label": "(when answering the previous question - \"other\")",
+          "placeholder": "Other government program"
+        },
+        "how_know_select":{
+            "label": "How did you find out about the Project?",
+            "d_option": "Choose from:",
+            "option1": "From social networks",
+            "option2": "In the media (newspapers, TV, etc.)",
+            "option3": "At an information meeting in a public organization, in a state organization (educational institution, IDC, akimat, etc.)",
+            "option4": "From relatives, friends, acquaintances",
+            "option5": "From posters, posters, booklets, etc."
+        },
+        "is_social_select":{
+            "label": "Do you have social media pages?",
+            "d_option": "Choose from:",
+            "option1": "Yes",
+            "option2": "No"
+        },
+        "link_soc_text": "Specify links to pages in social networks",
+        "link_soc_input":{
+            "label": "(if the answer to the previous question is positive). You can write your username (for example, Instagram: @zhasproject, Vkontakte: zhasproject)",
+            "placeholder": "@zhasproject"
+        },
+        "contact_pers":{
+            "title": "Contact person",
+            "info": "Specify the person we can contact in case of loss of communication with you",
+            "f_name": "Name",
+            "l_name": "Surname",
+            "surname": "Middle name",
+            "phone": "Phone number"
+        },
+        "documents":{
+            "file1_info": "Scanned version of the identity card on both sides (in one file)",
+            "file2_info_1": "Confirmation of permanent registration for at least three months (from the personal account on the website",
+            "file2_info_2": "with the specified full name, IIN)",
+            "file3_info": "Documents confirming the vulnerable status (certificate of disability, certificate of registration as unemployed, certificate of receipt of TSA, etc.)"
+        },
+        "send": "Send",
+        "log_out": "Log out"
+    },
+    "Q&A": {
+        "q_1": "The age of the applicant",
+        "q_2": "Does registration affect participation?",
+        "q_3": "Participant status",
+        "q_4": "The status of young people to participate in the competition?",
+        "q_5": "How many projects can be submitted during participation?",
+        "q_6": "Project implementation period?",
+        "a_1": "The applicant must be between 18 and 35 years old (inclusive) at the time of application.",
+        "a_2": "The applicant must have permanent or temporary registration on the territory of the region at the time of filing the application.",
+        "a_3": "The applicant must be in the status of temporarily unsettled youth at the time of application submission.",
+        "a_4": "Youth who have the status of a registered unemployed person; youth engaged in household chores; youth who are persons with disabilities, and other persons aged 18-35 years who are not working and are not studying full-time.",
+        "a_5": "The applicant can offer only 1 (one) social project to participate in the competition.",
+        "a_6": "The project must be implemented by the applicant within a period of no more than 2 (two) months."
+    },
+    "profile": {
+        "title_1": "Account data",
+        "name": "Name:",
+        "surname": "Surname:",
+        "last_name": "Last name:",
+        "email": "Email:",
+        "phone": "Phone number:",
+        "title_2": "Your application",
+        "gender": "Gender:",
+        "IIN": "IIN:",
+        "birth": "Birth date:",
+        "citizenship": "Citizenship:",
+        "contacts": "Contacts of the trusted person:",
+        "contact_person": "Trusted person:",
+        "family": "Marital status:",
+        "unemployed_status": "Unemployed status:",
+        "living_place": "Living area:",
+        "address": "Address:",
+        "education": "Education:",
+        "unemployed_time": "How long have you been out of work:",
+        "project_info": "Have you found out about the project:",
+        "social_network": "Your social network:",
+        "goverment_programms": "State and other youth support programs in which you have participated:",
+        "del_btn": "Cancel the application",
+        "approve": "Accept",
+        "reject": "Reject",
+        "jury": "This page is only available for the jury"
+    }
+}
