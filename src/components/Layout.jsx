@@ -67,7 +67,7 @@ const Layout = () => {
                             <img className="social_icon" src={vk} alt="youtube" />
                         </a>
                     </div>
-                    {auth.user &&
+                    {/* {auth.user &&
                         <div className="loggined-buttons">
                             <Link to="/profile">
                                 <button>{t("layout.profile")}</button>
@@ -79,7 +79,7 @@ const Layout = () => {
                         <Link to='/login'>
                             <button className="login_button">{t("layout.login")}</button>
                         </Link>
-                    }
+                    } */}
                     <button onClick={toggleShown} className="toggle-btn"><FontAwesomeIcon icon={faBars}></FontAwesomeIcon></button>
                 </div>
                 <div className="header-bottom">
