@@ -8,7 +8,7 @@ import fifthImg from '../img/info5.jpg'
 import { useTranslation } from 'react-i18next'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileDownload } from "@fortawesome/free-solid-svg-icons";
-import kazDock from '../files/kazDock.docx'
+import kazDock from '../files/Uly_Dala_Pol.docx'
 import rusDock from '../files/rusDock.docx'
 
 const Info = () => {
